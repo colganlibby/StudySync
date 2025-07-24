@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 🚀 Live App coming soon • 💻 [View Source Code](https://github.com/colganlibby/studysync)
 
+=======
+>>>>>>> e7708a6d6138d7fb47be1b5687c2588463d751af
 # 📚 StudySync – UX Design Case Study  
 *A chill productivity tool for students who want to get things done without burning out*
 
@@ -72,4 +75,15 @@ This case study will explore my UX decision-making, trade-offs, and how I aim to
 
 - Figma  
 - Pen & Paper (initial sketches)  
+<<<<<<< HEAD
 - Notion (for planning) 
+=======
+- Notion (for planning)  
+
+---
+
+## Status
+
+**In Development** – I'm currently building out the wireframes and high-fidelity UI. Stay tuned for updates!
+
+>>>>>>> e7708a6d6138d7fb47be1b5687c2588463d751af
