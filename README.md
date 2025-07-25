@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 🚀 Live App coming soon • 💻 [View Source Code](https://github.com/colganlibby/studysync)
 
-=======
->>>>>>> e7708a6d6138d7fb47be1b5687c2588463d751af
 # 📚 StudySync – UX Design Case Study  
 *A chill productivity tool for students who want to get things done without burning out*
 
->**Note:** This project is currently in development. Final wireframes, Figma prototypes, and visuals will be added soon!
+> **Note:** This project is currently in development. Final wireframes, Figma prototypes, and visuals will be added soon!
 
 ---
 
@@ -34,14 +31,14 @@ Students often struggle to focus consistently and balance work with self-care. M
 
 ## Key Features
 
-| Feature         | Why It Matters                              |
-|----------------|----------------------------------------------|
-| Pomodoro Timer  | Improves focus with short work bursts        |
-| To-Do List     | Keeps goals clear without clutter            |
-| Streak Tracker | Light motivation (no guilt if broken)       |
-| Mood Check-In  | Encourages self-awareness before sessions   |
-| Study Buddy Mode | Optional synced sessions with a friend     |
-| Break Corner   | Calming breaks: lofi, memes, or breathing   |
+| Feature           | Why It Matters                               |
+|------------------|-----------------------------------------------|
+| Pomodoro Timer    | Improves focus with short work bursts        |
+| To-Do List        | Keeps goals clear without clutter            |
+| Streak Tracker    | Light motivation (no guilt if broken)        |
+| Mood Check-In     | Encourages self-awareness before sessions    |
+| Study Buddy Mode  | Optional synced sessions with a friend       |
+| Break Corner      | Calming breaks: lofi, memes, or breathing    |
 
 ---
 
@@ -60,7 +57,8 @@ _Design visuals coming soon!_
 
 ---
 
-## Prototype Link  
+## Prototype Link
+
 *(Will be added once Figma file is ready)*
 
 ---
@@ -75,9 +73,6 @@ This case study will explore my UX decision-making, trade-offs, and how I aim to
 
 - Figma  
 - Pen & Paper (initial sketches)  
-<<<<<<< HEAD
-- Notion (for planning) 
-=======
 - Notion (for planning)  
 
 ---
@@ -86,4 +81,3 @@ This case study will explore my UX decision-making, trade-offs, and how I aim to
 
 **In Development** – I'm currently building out the wireframes and high-fidelity UI. Stay tuned for updates!
 
->>>>>>> e7708a6d6138d7fb47be1b5687c2588463d751af
