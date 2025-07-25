@@ -53,7 +53,9 @@ Students often struggle to focus consistently and balance work with self-care. M
 
 ## 🖼️ Screenshots
 
-_Design visuals coming soon!_
+Here’s a preview of the StudySync UI:
+
+<img src="https://github.com/user-attachments/assets/1f93a2a5-c6ca-480e-9da8-4ea679cff8ed" alt="StudySync" width="400" height="410" />
 
 ---
 
